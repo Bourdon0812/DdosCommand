@@ -1,0 +1,6 @@
+name: DdosCommand
+main: DDOS\Main
+version: 1.0.0
+api: 4.0.0
+author: Bourdon
+discord: Bourdon#5609
